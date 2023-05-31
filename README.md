@@ -13,7 +13,7 @@ contraseña
 fecha de nacimiento
 domicilio
 sexo
-![pastel](/Pastel2.png "Texto para mostrar en caso de que no cargue la imagen")
+![pastel](/Pastel2.jpeg "Texto para mostrar en caso de que no cargue la imagen")
 despues al entrar solo nos pedira el correo y contraseña guardando lo demas en la base de datos.
 
 Despues en la siguiente pantalla, que sera la principal podremos ver imagenes con su descripcion de lo que es y el precio del postre o pastel, pudiendo seleccionar cualquiera, en la siguiente pantalla tendremos una barra de busqueda para encontrar nuestro postre deseado, a su vez podremos visualizar imagenes de lo mas vendido y promociones disponibles pudiendo seleccionar al gusto.
