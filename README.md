@@ -42,7 +42,7 @@ Despues en la siguiente pantalla tendremos la oportunidad de personalizar nuestr
 
 Despues seguimos con la pantalla del carrito donde podremos agregar, quitar o editar tus pedidos y proceder a pagar por consiguiente pasamos a la ventana de pago donde proporcionaremos nuestro metodo de pago de preferencia ya sea pago en efectivo, tarjeta de credito o debito aplicando codigos de descuento tambien, por ultimo 
 en la parte baja de la pantalla tendremos opciones para navegar entre pantallas pudiendo elegir una opcion bonus de un mapa para ver las sucursales mas cercanas 
-disponibles. 
+disponibles..
 
 
 **1.- ¿Cuál es el objetivo del software?**
