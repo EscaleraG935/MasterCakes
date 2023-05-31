@@ -28,21 +28,21 @@ Despues al entrar solo nos pedira el correo y contraseña guardando lo demas en 
 Despues en la siguiente pantalla, que sera la principal podremos ver imagenes con su descripcion de lo que es y el precio del postre o pastel, pudiendo seleccionar cualquiera.
 
 
-![pastel](/Pastel5.1.jpeg"Texto para mostrar en caso de que no cargue la imagen")
+![pastel](/Pastel5.1.jpeg "Texto para mostrar en caso de que no cargue la imagen")
 
 
 
 
 En la siguiente pantalla tendremos una barra de busqueda para encontrar nuestro postre deseado, a su vez podremos visualizar imagenes de lo mas vendido y promociones disponibles pudiendo seleccionar al gusto.
 
-![pastel](/Pastel6.1.jpeg"Texto para mostrar en caso de que no cargue la imagen")
+![pastel](/Pastel6.1.jpeg "Texto para mostrar en caso de que no cargue la imagen")
 
 
 
 
 Despues en la siguiente pantalla tendremos la oportunidad de personalizar nuestro postre al gusto con una gran variedad de opciones para elegir adornos comestibles asi como sus ingredientes con la opcion de guardar los cambios o blueprints en favoritos.
 
-![pastel](/Pastel7.1.jpeg"Texto para mostrar en caso de que no cargue la imagen")
+![pastel](/Pastel7.1.jpeg "Texto para mostrar en caso de que no cargue la imagen")
 
 
 
