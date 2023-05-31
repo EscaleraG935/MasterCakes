@@ -1,7 +1,6 @@
 # MasterCake
 ## Aplicación para ordenar pasteles más facil 
 
-![pastel](/Pastel.png "Texto para mostrar en caso de que no cargue la imagen")
 
 
  ![pastel](/Pastel2.jpeg "Texto para mostrar en caso de que no cargue la imagen")
